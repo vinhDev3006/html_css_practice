@@ -10,3 +10,5 @@ Through this practice, I have gained a deeper understanding of the web developme
 While I may not be a professional web developer, I believe that learning HTML and CSS is a valuable skill for anyone interested in technology and design. By sharing my progress in this repository, I hope to inspire others to explore the world of web development and create their own projects.
 
 So, feel free to take a look around and let me know your thoughts. I'm always eager to learn and improve, and I appreciate any feedback or suggestions you may have.
+
+This is the book that I will be following along: HTML & CSS: Design and Build Web Sites (Jon Duckett)
